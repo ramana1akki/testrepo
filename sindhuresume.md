@@ -2,9 +2,9 @@
 
 (443) 808-5772        [avalursindhu@gmail.com](mailto:avalursindhu@gmail.com)
 
-**EDUCATION:**
+****EDUCATION:**
 
-University of the Cumberlands, Williamsburg, Kentucky
+*University of the Cumberlands, Williamsburg, Kentucky
 
 Master of Business Administration
 
