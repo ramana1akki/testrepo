@@ -27,13 +27,14 @@ Jun 2011
 
 **PROFESSIONAL EXPERIENCE:**
 
-** American Airlines Tempe AZ **                                                                                               
+
+**American Airlines Tempe AZ **                                                                                               
 
 Programmer/Business Analyst
 
 Sep 2016 - Current
 
-** Responsibilities:**
+**Responsibilities:**
 
 - Gather requirements from stakeholders, coordinate with application team for web design and prepare documentation for sign-off from business and management.
 - Analyze Design, Code, Test and debug software and systems and deliver customized system applications using Microsoft technologies.
