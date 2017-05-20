@@ -4,7 +4,7 @@
 
 **EDUCATION:**
 
-Master of Business Administration                                                                                                                Current
+Master of Business Administration																																											Current
 
 University of the Cumberlands, Williamsburg, Kentucky
 
