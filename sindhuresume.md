@@ -28,8 +28,11 @@ Jun 2011
 **PROFESSIONAL EXPERIENCE:**
 
 ** American Airlines Tempe AZ **                                                                                               
+
 Programmer/Business Analyst
+
 Sep 2016 - Current
+
 ** Responsibilities:**
 
 - Gather requirements from stakeholders, coordinate with application team for web design and prepare documentation for sign-off from business and management.
@@ -47,8 +50,11 @@ Sep 2016 - Current
 - Database (SQL Server 2012) design and stored procedure creation and optimization.
 
 **TU Bergakademie Freiberg, Germany**
+
 Web services Coordinator                                                                
+
 April 14 – April 15
+
 **Responsibilities:**
 
 - Helped to design new areas of the University website using HTML5 and CSS.
@@ -60,8 +66,11 @@ April 14 – April 15
 - Design and manage major feature additions and improvements, including transition from subsection of department&#39;s Drupal 6 site to independent Drupal 7 site.
 
 **TU Bergakademie Freiberg, Germany**
+
 Research Assistant                                                                       
+
 April 13 – April 14
+
 **Responsibilities:**
 
 - Re-design the electronic and software equipment of a resonance test rig.
@@ -70,8 +79,11 @@ April 13 – April 14
 - Code the programs using PYTHON language.
 
 **HSBC**
+
 Software Engineer/Analyst, India                                                                          
+
 June 11 – September 12
+
 **Responsibilities:**
 
 - Supported applications in the domain Core Banking and Payments.
