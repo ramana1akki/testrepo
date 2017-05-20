@@ -1,8 +1,8 @@
-##Sindhu Avalur
+**Sindhu Avalur**
 
 (443) 808-5772        [avalursindhu@gmail.com](mailto:avalursindhu@gmail.com)
 
-###EDUCATION:
+**EDUCATION:**
 
 Master of Business Administration                                                                                                                Current
 
@@ -17,15 +17,12 @@ Jun 2011
 
 Osmania University, Hyderabad, India
 
-###PROFESSIONAL EXPERIENCE:
+**PROFESSIONAL EXPERIENCE:**
 
-#### American Airlines Tempe AZ                                                                                                              
-
+** American Airlines Tempe AZ **                                                                                               
 Programmer/Business Analyst
-
 Sep 2016 - Current
-
-##### Responsibilities:
+** Responsibilities:**
 
 - Gather requirements from stakeholders, coordinate with application team for web design and prepare documentation for sign-off from business and management.
 - Analyze Design, Code, Test and debug software and systems and deliver customized system applications using Microsoft technologies.
@@ -41,12 +38,10 @@ Sep 2016 - Current
 - Designed User Interfaces using HTML, JavaScript, AngularJS and CSS to enhance UI experience on Client-side.
 - Database (SQL Server 2012) design and stored procedure creation and optimization.
 
-####TU Bergakademie Freiberg, Germany
-
+**TU Bergakademie Freiberg, Germany**
 Web services Coordinator                                                                
 April 14 – April 15
-
-#####Responsibilities:
+**Responsibilities:**
 
 - Helped to design new areas of the University website using HTML5 and CSS.
 - Create and update the front-end web framework for tu-freiberg.de and overall styling.
@@ -56,26 +51,20 @@ April 14 – April 15
 - Provide technical support to the end users and identify and correct software deficiencies.
 - Design and manage major feature additions and improvements, including transition from subsection of department&#39;s Drupal 6 site to independent Drupal 7 site.
 
-
-
-####TU Bergakademie Freiberg, Germany
-
+**TU Bergakademie Freiberg, Germany**
 Research Assistant                                                                       
 April 13 – April 14
-
-#####Responsibilities:
+**Responsibilities:**
 
 - Re-design the electronic and software equipment of a resonance test rig.
 - Use of MATLAB to analyze the sensor data using pre-built functions for signal processing.  
 - Develop algorithms for analyzing the raw data from Arduino device.  
 - Code the programs using PYTHON language.
 
-####HSBC
-
+**HSBC**
 Software Engineer/Analyst, India                                                                          
 June 11 – September 12
-
-#####Responsibilities:
+**Responsibilities:**
 
 - Supported applications in the domain Core Banking and Payments.
 - Implemented Model View Controller (MVC) Pattern in the application development.
@@ -87,7 +76,7 @@ June 11 – September 12
 - Implemented Unit, Integration and System Testing using NUNIT.
 - Assisted Project Manager for implementing Agile methodologies and maintained the team knowledge based and documentation.
 
-###TECHNICAL SKILLS:
+**TECHNICAL SKILLS:**
 
 - **Microsoft Technologies**      .Net Framework 4.6/4.5, ASP.Net, LINQ, Web Forms, Windows Forms, WCF, Web API.
 - **Languages**                  C, C++, Python, C#, VB.NET 6.0        , HTML, CSS, Bootstrap, JavaScript, jQuery, AngularJS.
@@ -98,11 +87,11 @@ June 11 – September 12
 - **Web Servers**                   IIS 7.0/7.5.
 - **Version Control Tools**        Team Foundation Server (TFS), GitHub.
 
-###Volunteer:
+**Volunteer:**
 
 - Volunteered MVSR Campus Connect as a Vice- President.
 - Volunteered as a team President in AKAS group during Masters.
 
-###Languages
+**Languages**
 
 English German Hindi Telugu
