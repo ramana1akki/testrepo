@@ -2,23 +2,23 @@
 
 (443) 808-5772        [avalursindhu@gmail.com](mailto:avalursindhu@gmail.com)
 
-****EDUCATION:**
+***EDUCATION:***
 
-*University of the Cumberlands, Williamsburg, Kentucky
+*University of the Cumberlands, Williamsburg, Kentucky*
 
 Master of Business Administration
 
 Current
 
 
-Technische Universität Bergakademie (Freiberg University of Mining and Technology), Freiberg, Germany
+*Technische Universität Bergakademie (Freiberg University of Mining and Technology), Freiberg, Germany*
 
 Master of Science in Computational Material Science
 
 Oct 2015
 
 
-Osmania University, Hyderabad, India
+*Osmania University, Hyderabad, India*
 
 Bachelor of Engineering in Mechanical Engineering
 
